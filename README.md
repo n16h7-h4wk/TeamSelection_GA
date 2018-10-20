@@ -22,6 +22,12 @@ Fitness function(f) = ((1-(a/b))+c)/(1+c) where
 
 ## OUTPUTS-
 
+Initial provided data:-
+
+Plot of player ID vs their fitness values:-
+
+Final selected team of 15 players:-
+
 ![screenshot 66](https://user-images.githubusercontent.com/34138052/47259654-402d6800-d4ca-11e8-9dda-c5090917eb73.png)
 
 ![screenshot 67](https://user-images.githubusercontent.com/34138052/47259657-47547600-d4ca-11e8-9356-d85addac4fcb.png)
