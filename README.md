@@ -20,6 +20,15 @@ Fitness function(f) = ((1-(a/b))+c)/(1+c) where
 * b = no. of matches played,
 * c = no.of matches won
 
+## OUTPUTS-
+
+![screenshot 66](https://user-images.githubusercontent.com/34138052/47259654-402d6800-d4ca-11e8-9dda-c5090917eb73.png)
+
+![screenshot 67](https://user-images.githubusercontent.com/34138052/47259657-47547600-d4ca-11e8-9356-d85addac4fcb.png)
+
+![screenshot 68](https://user-images.githubusercontent.com/34138052/47259658-4f141a80-d4ca-11e8-8d06-69ef3d8f1719.png)
+
+
 
 
 
